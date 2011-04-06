@@ -1,0 +1,7 @@
+
+INSTALL
+=======
+
+Do `make && ./ldap-server` and then connect the ldap client (Address Book?) to
+localhost, port 3389.
+
